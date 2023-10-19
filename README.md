@@ -4,13 +4,13 @@
 >Running well in Orange Pi 3B
 >Debian variant of Linux installed
 
-![Result](https://github.com/charlierolando/Audio-Detection-on-Embedded-Linux/blob/main/images/images1.png)
+![Result](https://github.com/charlierolando/Audio-Detection-on-Embedded-Linux/blob/main/images/images4.png)
 
->Click [this](https://github.com/charlierolando/Audio-Detection-on-Embedded-Linux/blob/main/images/images1.png) when the image doesn't appear
+>Click [this](https://github.com/charlierolando/Audio-Detection-on-Embedded-Linux/blob/main/images/images4.png) when the image doesn't appear
 
-![Result](https://github.com/charlierolando/Audio-Detection-on-Embedded-Linux/blob/main/images/images2.png)
+![Result](https://github.com/charlierolando/Audio-Detection-on-Embedded-Linux/blob/main/images/images3.png)
 
->Click [this](https://github.com/charlierolando/Audio-Detection-on-Embedded-Linux/blob/main/images/images2.png) when the image doesn't appear
+>Click [this](https://github.com/charlierolando/Audio-Detection-on-Embedded-Linux/blob/main/images/images3.png) when the image doesn't appear
 
 ## [Code:](#code)
 
